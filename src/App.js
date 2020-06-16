@@ -12,7 +12,7 @@ function App() {
         </p>
         <h3>learn react</h3>
         <h4>
-          <i>Modified Docker file and removed edge</i>
+          <i>Now it should work</i>
         </h4>
       </header>
     </div>
