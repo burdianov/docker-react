@@ -12,7 +12,7 @@ function App() {
         </p>
         <h3>learn react</h3>
         <h4>
-          <i>Working on Amazon</i>
+          <i>Modified Docker file and removed edge</i>
         </h4>
       </header>
     </div>

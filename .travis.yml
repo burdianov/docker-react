@@ -9,7 +9,6 @@ script:
   - docker run -e CI=true burdianov/docker-react npm run test
 
 deploy:
-  edge: true
   provider: elasticbeanstalk
   region: 'us-west-2'
   app: 'docker-react'
