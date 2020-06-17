@@ -12,7 +12,7 @@ function App() {
         </p>
         <h3>learn react</h3>
         <h4>
-          <i>Go ahead</i>
+          <i>I was changed on the Feature branch</i>
         </h4>
       </header>
     </div>
